@@ -1,0 +1,16 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/Mini_varior.vox-833e49e753991a5225f413ca944f2fac.mesh"
+
+[deps]
+
+source_file="res://VOX/Mini_varior.vox"
+dest_files=[ "res://.import/Mini_varior.vox-833e49e753991a5225f413ca944f2fac.mesh" ]
+
+[params]
+
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false

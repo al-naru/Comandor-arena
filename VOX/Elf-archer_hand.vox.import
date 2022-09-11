@@ -1,0 +1,16 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/Elf-archer_hand.vox-538ec2f4edd4066be165707d5904d7b3.mesh"
+
+[deps]
+
+source_file="res://VOX/Elf-archer_hand.vox"
+dest_files=[ "res://.import/Elf-archer_hand.vox-538ec2f4edd4066be165707d5904d7b3.mesh" ]
+
+[params]
+
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false
